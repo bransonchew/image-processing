@@ -1,0 +1,5 @@
+# Export dependencies
+conda env export > environment.yml
+
+# Import and build dependencies
+conda env create -f environment.yml

@@ -1,0 +1,12 @@
+{
+  "id1": {
+    "image_path": "id1.png",
+    "last_seen": "2024-01-01 00:00:00",
+    "name": "Your Name"
+  },
+  "id2": {
+    "image_path": "id2.png",
+    "last_seen": "2024-01-01 00:00:00",
+    "name": "Your Name"
+  }
+}
